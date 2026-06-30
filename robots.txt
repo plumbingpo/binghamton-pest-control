@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://binghamtonpestcontrolco.com/sitemap.xml
